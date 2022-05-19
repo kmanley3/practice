@@ -1,0 +1,23 @@
+Features:
+
+- show all expenses once they are put onto the list
+- add all expenses and put it into the grand total
+- ability to add new people to the trip
+- 
+
+
+Things I Need:
+
+- Grand Total section
+- add person button (adds new card for expense tracking)
+- add expense
+- personal total
+- how much each person owes each other
+- checkbox buttons for if it is a shared expense
+- delete person
+- delete expense
+
+- login
+- user table
+- trip table
+- person table
